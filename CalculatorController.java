@@ -142,7 +142,7 @@ public class CalculatorController {
 
     }
 
-    //inner class that will handle action listeners
+   
     class Actions implements ActionListener {
 
         @Override
